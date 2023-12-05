@@ -11,4 +11,9 @@ public class Task1 {
         return firstNum+secondNum;
     }
 
+
+    public String mayaMethod () {
+        return "Hi";
+    }
+
 }

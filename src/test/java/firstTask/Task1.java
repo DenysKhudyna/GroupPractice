@@ -14,6 +14,7 @@ public class Task1 {
 
     public String mayaMethod () {
         return "Hi";
+
     }
 
 }
